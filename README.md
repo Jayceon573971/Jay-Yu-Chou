@@ -12,6 +12,7 @@ Product engineer & founder. I ship products end to end — spec, AI-directed bui
 
 **[EvolveU](https://apps.apple.com/app/evolveu/id6757775755)** — Subscription iOS app for daily practice of thinking methodologies; localized in 13 languages. Flutter · Supabase · StoreKit · Anthropic Claude API.
 
+**[provenance-badge](https://github.com/Jayceon573971/provenance-badge)** — A spec-first build on Replit Agent: 301-line SPEC.md → Express + Postgres/SQLite service with 26 tests, security headers, structured logs, export/import DR, in ~30 minutes of agent time. The work log in the README records every deviation. Not deployed.
 ## How I build
 
 Spec-first and test-first, with Claude Code and Codex under a written engineering handbook. Every schema, auth and legal-copy change gets an independent red-team review before it ships.
